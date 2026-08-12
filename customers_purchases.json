@@ -1,0 +1,2502 @@
+[
+  {
+    "CustomerID": 1001,
+    "PurchaseAmount": 297.77,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1002,
+    "PurchaseAmount": 306.24,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1003,
+    "PurchaseAmount": 70.27,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1004,
+    "PurchaseAmount": 305.74,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1005,
+    "PurchaseAmount": 148.51,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1006,
+    "PurchaseAmount": 961.86,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1007,
+    "PurchaseAmount": 561.47,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1008,
+    "PurchaseAmount": 408.87,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1009,
+    "PurchaseAmount": 623.14,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1010,
+    "PurchaseAmount": 517.91,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1011,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1012,
+    "PurchaseAmount": 322.38,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1013,
+    "PurchaseAmount": 68.42,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1014,
+    "PurchaseAmount": 963.62,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1015,
+    "PurchaseAmount": 534.94,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1016,
+    "PurchaseAmount": 235.25,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1017,
+    "PurchaseAmount": 264.94,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1018,
+    "PurchaseAmount": 643.01,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1019,
+    "PurchaseAmount": 631.4,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1020,
+    "PurchaseAmount": 926.72,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1021,
+    "PurchaseAmount": 354.21,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1022,
+    "PurchaseAmount": 255.95,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1023,
+    "PurchaseAmount": 504.84,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1024,
+    "PurchaseAmount": 413.83,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1025,
+    "PurchaseAmount": 295.58,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1026,
+    "PurchaseAmount": 87.84,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1027,
+    "PurchaseAmount": 1032.45,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1028,
+    "PurchaseAmount": 1629.76,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1029,
+    "PurchaseAmount": 815.26,
+    "PurchaseFrequency": 14
+  },
+  {
+    "CustomerID": 1030,
+    "PurchaseAmount": 350.42,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1031,
+    "PurchaseAmount": 555.85,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1032,
+    "PurchaseAmount": 477.97,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1033,
+    "PurchaseAmount": 743.41,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1034,
+    "PurchaseAmount": 665.68,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1035,
+    "PurchaseAmount": 335.2,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1036,
+    "PurchaseAmount": 194.58,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1037,
+    "PurchaseAmount": 497.92,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1038,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1039,
+    "PurchaseAmount": 129.83,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1040,
+    "PurchaseAmount": 236.86,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1041,
+    "PurchaseAmount": 109.7,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1042,
+    "PurchaseAmount": 371.89,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1043,
+    "PurchaseAmount": 1708.31,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1044,
+    "PurchaseAmount": 325.35,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1045,
+    "PurchaseAmount": 320.18,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1046,
+    "PurchaseAmount": 383.62,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1047,
+    "PurchaseAmount": 1092.23,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1048,
+    "PurchaseAmount": 1686.75,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1049,
+    "PurchaseAmount": 1299.3,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1050,
+    "PurchaseAmount": 811.14,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1051,
+    "PurchaseAmount": 197.4,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1052,
+    "PurchaseAmount": 824.09,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1053,
+    "PurchaseAmount": 124.12,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1054,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1055,
+    "PurchaseAmount": 453.01,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1056,
+    "PurchaseAmount": 412.35,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1057,
+    "PurchaseAmount": 358.08,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1058,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1059,
+    "PurchaseAmount": 579.42,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1060,
+    "PurchaseAmount": 454.75,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1061,
+    "PurchaseAmount": 721.4,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1062,
+    "PurchaseAmount": 769.16,
+    "PurchaseFrequency": 0
+  },
+  {
+    "CustomerID": 1063,
+    "PurchaseAmount": 531.89,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1064,
+    "PurchaseAmount": 247.73,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1065,
+    "PurchaseAmount": 246.31,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1066,
+    "PurchaseAmount": 312.64,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1067,
+    "PurchaseAmount": 529.77,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1068,
+    "PurchaseAmount": 691.29,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1069,
+    "PurchaseAmount": 259.32,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1070,
+    "PurchaseAmount": 1007.38,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1071,
+    "PurchaseAmount": 352.0,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1072,
+    "PurchaseAmount": 39.49,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1073,
+    "PurchaseAmount": 1451.03,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1074,
+    "PurchaseAmount": 438.97,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1075,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1076,
+    "PurchaseAmount": 75.4,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1077,
+    "PurchaseAmount": 225.91,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1078,
+    "PurchaseAmount": 323.0,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1079,
+    "PurchaseAmount": 126.78,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1080,
+    "PurchaseAmount": 345.58,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1081,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1082,
+    "PurchaseAmount": 935.54,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1083,
+    "PurchaseAmount": 37.67,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1084,
+    "PurchaseAmount": 622.84,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1085,
+    "PurchaseAmount": 820.49,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1086,
+    "PurchaseAmount": 1459.38,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1087,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1088,
+    "PurchaseAmount": 182.77,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1089,
+    "PurchaseAmount": 338.01,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1090,
+    "PurchaseAmount": 497.92,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1091,
+    "PurchaseAmount": 1030.05,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1092,
+    "PurchaseAmount": 65.69,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1093,
+    "PurchaseAmount": 621.08,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1094,
+    "PurchaseAmount": 87.94,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1095,
+    "PurchaseAmount": 255.71,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1096,
+    "PurchaseAmount": 111.67,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1097,
+    "PurchaseAmount": 222.97,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1098,
+    "PurchaseAmount": 736.17,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1099,
+    "PurchaseAmount": 302.51,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1100,
+    "PurchaseAmount": 204.78,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1101,
+    "PurchaseAmount": 180.92,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1102,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1103,
+    "PurchaseAmount": 699.34,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1104,
+    "PurchaseAmount": 424.83,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1105,
+    "PurchaseAmount": 536.89,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1106,
+    "PurchaseAmount": 101.57,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1107,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1108,
+    "PurchaseAmount": 32.74,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1109,
+    "PurchaseAmount": 930.62,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1110,
+    "PurchaseAmount": 620.67,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1111,
+    "PurchaseAmount": 379.32,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1112,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1113,
+    "PurchaseAmount": 172.76,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1114,
+    "PurchaseAmount": 110.27,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1115,
+    "PurchaseAmount": 363.04,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1116,
+    "PurchaseAmount": 550.95,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1117,
+    "PurchaseAmount": 529.04,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1118,
+    "PurchaseAmount": 1161.5,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1119,
+    "PurchaseAmount": 399.19,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1120,
+    "PurchaseAmount": 972.55,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1121,
+    "PurchaseAmount": 323.77,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1122,
+    "PurchaseAmount": 603.1,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1123,
+    "PurchaseAmount": 350.28,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1124,
+    "PurchaseAmount": 516.78,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1125,
+    "PurchaseAmount": 403.08,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1126,
+    "PurchaseAmount": 233.9,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1127,
+    "PurchaseAmount": 530.23,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1128,
+    "PurchaseAmount": 632.19,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1129,
+    "PurchaseAmount": 714.09,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1130,
+    "PurchaseAmount": 481.91,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1131,
+    "PurchaseAmount": 25.62,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1132,
+    "PurchaseAmount": 549.82,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1133,
+    "PurchaseAmount": 133.94,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1134,
+    "PurchaseAmount": 465.57,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1135,
+    "PurchaseAmount": 514.87,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1136,
+    "PurchaseAmount": 67.16,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1137,
+    "PurchaseAmount": 419.35,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1138,
+    "PurchaseAmount": 99.38,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1139,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1140,
+    "PurchaseAmount": 96.8,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1141,
+    "PurchaseAmount": 379.38,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1142,
+    "PurchaseAmount": 361.62,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1143,
+    "PurchaseAmount": 273.62,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1144,
+    "PurchaseAmount": 614.83,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1145,
+    "PurchaseAmount": 344.92,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1146,
+    "PurchaseAmount": 555.04,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1147,
+    "PurchaseAmount": 709.46,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1148,
+    "PurchaseAmount": 1759.39,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1149,
+    "PurchaseAmount": 384.4,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1150,
+    "PurchaseAmount": 931.6,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1151,
+    "PurchaseAmount": 493.21,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1152,
+    "PurchaseAmount": 514.45,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1153,
+    "PurchaseAmount": 388.5,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1154,
+    "PurchaseAmount": 461.82,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1155,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 0
+  },
+  {
+    "CustomerID": 1156,
+    "PurchaseAmount": 824.08,
+    "PurchaseFrequency": 14
+  },
+  {
+    "CustomerID": 1157,
+    "PurchaseAmount": 223.53,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1158,
+    "PurchaseAmount": 95.76,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1159,
+    "PurchaseAmount": 266.08,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1160,
+    "PurchaseAmount": 242.47,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1161,
+    "PurchaseAmount": 265.96,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1162,
+    "PurchaseAmount": 372.68,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1163,
+    "PurchaseAmount": 266.8,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1164,
+    "PurchaseAmount": 368.54,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1165,
+    "PurchaseAmount": 267.5,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1166,
+    "PurchaseAmount": 563.58,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1167,
+    "PurchaseAmount": 1749.0,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1168,
+    "PurchaseAmount": 485.91,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1169,
+    "PurchaseAmount": 276.85,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1170,
+    "PurchaseAmount": 26.59,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1171,
+    "PurchaseAmount": 1382.0,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1172,
+    "PurchaseAmount": 506.27,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1173,
+    "PurchaseAmount": 365.96,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1174,
+    "PurchaseAmount": 29.23,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1175,
+    "PurchaseAmount": 381.2,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1176,
+    "PurchaseAmount": 458.88,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1177,
+    "PurchaseAmount": 268.33,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1178,
+    "PurchaseAmount": 116.78,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1179,
+    "PurchaseAmount": 108.78,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1180,
+    "PurchaseAmount": 1396.44,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1181,
+    "PurchaseAmount": 448.97,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1182,
+    "PurchaseAmount": 268.13,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1183,
+    "PurchaseAmount": 428.89,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1184,
+    "PurchaseAmount": 406.79,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1185,
+    "PurchaseAmount": 103.04,
+    "PurchaseFrequency": 16
+  },
+  {
+    "CustomerID": 1186,
+    "PurchaseAmount": 787.06,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1187,
+    "PurchaseAmount": 358.43,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1188,
+    "PurchaseAmount": 453.65,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1189,
+    "PurchaseAmount": 1098.51,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1190,
+    "PurchaseAmount": 120.5,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1191,
+    "PurchaseAmount": 213.32,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1192,
+    "PurchaseAmount": 526.38,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1193,
+    "PurchaseAmount": 776.37,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1194,
+    "PurchaseAmount": 247.13,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1195,
+    "PurchaseAmount": 259.47,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1196,
+    "PurchaseAmount": 654.34,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1197,
+    "PurchaseAmount": 1660.7,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1198,
+    "PurchaseAmount": 439.81,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1199,
+    "PurchaseAmount": 212.71,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1200,
+    "PurchaseAmount": 160.13,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1201,
+    "PurchaseAmount": 371.81,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1202,
+    "PurchaseAmount": 751.84,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1203,
+    "PurchaseAmount": 2140.32,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1204,
+    "PurchaseAmount": 324.14,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1205,
+    "PurchaseAmount": 440.35,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1206,
+    "PurchaseAmount": 1245.48,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1207,
+    "PurchaseAmount": 520.03,
+    "PurchaseFrequency": 0
+  },
+  {
+    "CustomerID": 1208,
+    "PurchaseAmount": 488.42,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1209,
+    "PurchaseAmount": 1089.28,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1210,
+    "PurchaseAmount": 448.23,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1211,
+    "PurchaseAmount": 173.04,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1212,
+    "PurchaseAmount": 943.51,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1213,
+    "PurchaseAmount": 85.12,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1214,
+    "PurchaseAmount": 837.87,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1215,
+    "PurchaseAmount": 414.12,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1216,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1217,
+    "PurchaseAmount": 320.14,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1218,
+    "PurchaseAmount": 370.68,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1219,
+    "PurchaseAmount": 289.42,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1220,
+    "PurchaseAmount": 576.4,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1221,
+    "PurchaseAmount": 297.94,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1222,
+    "PurchaseAmount": 416.48,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1223,
+    "PurchaseAmount": 49.13,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1224,
+    "PurchaseAmount": 414.37,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1225,
+    "PurchaseAmount": 284.6,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1226,
+    "PurchaseAmount": 795.98,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1227,
+    "PurchaseAmount": 338.03,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1228,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1229,
+    "PurchaseAmount": 661.24,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1230,
+    "PurchaseAmount": 674.16,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1231,
+    "PurchaseAmount": 347.77,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1232,
+    "PurchaseAmount": 435.47,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1233,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1234,
+    "PurchaseAmount": 445.71,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1235,
+    "PurchaseAmount": 338.62,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1236,
+    "PurchaseAmount": 188.33,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1237,
+    "PurchaseAmount": 420.22,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1238,
+    "PurchaseAmount": 96.16,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1239,
+    "PurchaseAmount": 44.33,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1240,
+    "PurchaseAmount": 149.92,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1241,
+    "PurchaseAmount": 668.65,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1242,
+    "PurchaseAmount": 495.86,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1243,
+    "PurchaseAmount": 673.41,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1244,
+    "PurchaseAmount": 230.87,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1245,
+    "PurchaseAmount": 852.47,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1246,
+    "PurchaseAmount": 108.87,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1247,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1248,
+    "PurchaseAmount": 842.29,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1249,
+    "PurchaseAmount": 469.5,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1250,
+    "PurchaseAmount": 676.27,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1251,
+    "PurchaseAmount": 497.41,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1252,
+    "PurchaseAmount": 260.37,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1253,
+    "PurchaseAmount": 137.84,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1254,
+    "PurchaseAmount": 61.3,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1255,
+    "PurchaseAmount": 1315.63,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1256,
+    "PurchaseAmount": 81.36,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1257,
+    "PurchaseAmount": 1064.81,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1258,
+    "PurchaseAmount": 450.27,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1259,
+    "PurchaseAmount": 508.82,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1260,
+    "PurchaseAmount": 484.48,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1261,
+    "PurchaseAmount": 617.58,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1262,
+    "PurchaseAmount": 211.57,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1263,
+    "PurchaseAmount": 36.3,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1264,
+    "PurchaseAmount": 255.73,
+    "PurchaseFrequency": 12
+  },
+  {
+    "CustomerID": 1265,
+    "PurchaseAmount": 580.65,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1266,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1267,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1268,
+    "PurchaseAmount": 376.09,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1269,
+    "PurchaseAmount": 143.07,
+    "PurchaseFrequency": 1
+  },
+  {
+    "CustomerID": 1270,
+    "PurchaseAmount": 466.05,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1271,
+    "PurchaseAmount": 573.6,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1272,
+    "PurchaseAmount": 603.82,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1273,
+    "PurchaseAmount": 842.94,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1274,
+    "PurchaseAmount": 99.99,
+    "PurchaseFrequency": 1
+  },
+  {
+    "CustomerID": 1275,
+    "PurchaseAmount": 843.74,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1276,
+    "PurchaseAmount": 897.59,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1277,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1278,
+    "PurchaseAmount": 167.04,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1279,
+    "PurchaseAmount": 700.58,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1280,
+    "PurchaseAmount": 299.51,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1281,
+    "PurchaseAmount": 989.1,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1282,
+    "PurchaseAmount": 1178.5,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1283,
+    "PurchaseAmount": 142.91,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1284,
+    "PurchaseAmount": 207.8,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1285,
+    "PurchaseAmount": 448.03,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1286,
+    "PurchaseAmount": 34.78,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1287,
+    "PurchaseAmount": 63.63,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1288,
+    "PurchaseAmount": 186.74,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1289,
+    "PurchaseAmount": 1453.59,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1290,
+    "PurchaseAmount": 500.98,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1291,
+    "PurchaseAmount": 239.23,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1292,
+    "PurchaseAmount": 165.76,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1293,
+    "PurchaseAmount": 136.56,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1294,
+    "PurchaseAmount": 254.7,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1295,
+    "PurchaseAmount": 242.25,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1296,
+    "PurchaseAmount": 345.01,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1297,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1298,
+    "PurchaseAmount": 388.72,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1299,
+    "PurchaseAmount": 730.25,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1300,
+    "PurchaseAmount": 325.31,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1301,
+    "PurchaseAmount": 1239.13,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1302,
+    "PurchaseAmount": 717.8,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1303,
+    "PurchaseAmount": 490.8,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1304,
+    "PurchaseAmount": 595.12,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1305,
+    "PurchaseAmount": 260.7,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1306,
+    "PurchaseAmount": 340.49,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1307,
+    "PurchaseAmount": 329.94,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1308,
+    "PurchaseAmount": 214.86,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1309,
+    "PurchaseAmount": 113.79,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1310,
+    "PurchaseAmount": 618.61,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1311,
+    "PurchaseAmount": 812.25,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1312,
+    "PurchaseAmount": 556.43,
+    "PurchaseFrequency": 13
+  },
+  {
+    "CustomerID": 1313,
+    "PurchaseAmount": 387.82,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1314,
+    "PurchaseAmount": 1617.67,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1315,
+    "PurchaseAmount": 236.59,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1316,
+    "PurchaseAmount": 503.35,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1317,
+    "PurchaseAmount": 894.19,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1318,
+    "PurchaseAmount": 151.13,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1319,
+    "PurchaseAmount": 652.98,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1320,
+    "PurchaseAmount": 1293.71,
+    "PurchaseFrequency": 0
+  },
+  {
+    "CustomerID": 1321,
+    "PurchaseAmount": 413.38,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1322,
+    "PurchaseAmount": 470.22,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1323,
+    "PurchaseAmount": 237.82,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1324,
+    "PurchaseAmount": 590.2,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1325,
+    "PurchaseAmount": 210.17,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1326,
+    "PurchaseAmount": 394.54,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1327,
+    "PurchaseAmount": 99.29,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1328,
+    "PurchaseAmount": 14.73,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1329,
+    "PurchaseAmount": 280.63,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1330,
+    "PurchaseAmount": 276.83,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1331,
+    "PurchaseAmount": 301.24,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1332,
+    "PurchaseAmount": 702.59,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1333,
+    "PurchaseAmount": 828.16,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1334,
+    "PurchaseAmount": 519.16,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1335,
+    "PurchaseAmount": 668.06,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1336,
+    "PurchaseAmount": 215.65,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1337,
+    "PurchaseAmount": 171.09,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1338,
+    "PurchaseAmount": 598.92,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1339,
+    "PurchaseAmount": 149.16,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1340,
+    "PurchaseAmount": 133.21,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1341,
+    "PurchaseAmount": 2186.65,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1342,
+    "PurchaseAmount": 434.27,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1343,
+    "PurchaseAmount": 276.98,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1344,
+    "PurchaseAmount": 250.84,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1345,
+    "PurchaseAmount": 102.4,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1346,
+    "PurchaseAmount": 511.08,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1347,
+    "PurchaseAmount": 324.68,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1348,
+    "PurchaseAmount": 811.94,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1349,
+    "PurchaseAmount": 612.49,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1350,
+    "PurchaseAmount": 315.71,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1351,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1352,
+    "PurchaseAmount": 435.17,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1353,
+    "PurchaseAmount": 405.64,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1354,
+    "PurchaseAmount": 36.3,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1355,
+    "PurchaseAmount": 562.42,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1356,
+    "PurchaseAmount": 144.22,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1357,
+    "PurchaseAmount": 841.42,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1358,
+    "PurchaseAmount": 386.66,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1359,
+    "PurchaseAmount": 244.77,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1360,
+    "PurchaseAmount": 482.86,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1361,
+    "PurchaseAmount": 460.69,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1362,
+    "PurchaseAmount": 447.95,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1363,
+    "PurchaseAmount": 765.65,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1364,
+    "PurchaseAmount": 505.11,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1365,
+    "PurchaseAmount": 226.14,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1366,
+    "PurchaseAmount": 332.76,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1367,
+    "PurchaseAmount": 1052.06,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1368,
+    "PurchaseAmount": 208.5,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1369,
+    "PurchaseAmount": 555.82,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1370,
+    "PurchaseAmount": 785.39,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1371,
+    "PurchaseAmount": 595.41,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1372,
+    "PurchaseAmount": 437.23,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1373,
+    "PurchaseAmount": 490.02,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1374,
+    "PurchaseAmount": 622.75,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1375,
+    "PurchaseAmount": 206.28,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1376,
+    "PurchaseAmount": 407.69,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1377,
+    "PurchaseAmount": 1611.6,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1378,
+    "PurchaseAmount": 568.36,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1379,
+    "PurchaseAmount": 449.1,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1380,
+    "PurchaseAmount": 306.18,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1381,
+    "PurchaseAmount": 208.37,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1382,
+    "PurchaseAmount": 502.28,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1383,
+    "PurchaseAmount": 528.37,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1384,
+    "PurchaseAmount": 386.76,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1385,
+    "PurchaseAmount": 2040.46,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1386,
+    "PurchaseAmount": 224.92,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1387,
+    "PurchaseAmount": 180.46,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1388,
+    "PurchaseAmount": 309.78,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1389,
+    "PurchaseAmount": 396.5,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1390,
+    "PurchaseAmount": 198.77,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1391,
+    "PurchaseAmount": 493.33,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1392,
+    "PurchaseAmount": 533.47,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1393,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1394,
+    "PurchaseAmount": 269.99,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1395,
+    "PurchaseAmount": 993.5,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1396,
+    "PurchaseAmount": 644.02,
+    "PurchaseFrequency": 1
+  },
+  {
+    "CustomerID": 1397,
+    "PurchaseAmount": 220.9,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1398,
+    "PurchaseAmount": 197.97,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1399,
+    "PurchaseAmount": 327.24,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1400,
+    "PurchaseAmount": 534.43,
+    "PurchaseFrequency": 1
+  },
+  {
+    "CustomerID": 1401,
+    "PurchaseAmount": 592.0,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1402,
+    "PurchaseAmount": 643.16,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1403,
+    "PurchaseAmount": 1544.65,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1404,
+    "PurchaseAmount": 69.55,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1405,
+    "PurchaseAmount": 378.58,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1406,
+    "PurchaseAmount": 1461.0,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1407,
+    "PurchaseAmount": 697.69,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1408,
+    "PurchaseAmount": 170.23,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1409,
+    "PurchaseAmount": 475.04,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1410,
+    "PurchaseAmount": 361.14,
+    "PurchaseFrequency": 1
+  },
+  {
+    "CustomerID": 1411,
+    "PurchaseAmount": 351.01,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1412,
+    "PurchaseAmount": 265.66,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1413,
+    "PurchaseAmount": 446.66,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1414,
+    "PurchaseAmount": 871.92,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1415,
+    "PurchaseAmount": 286.1,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1416,
+    "PurchaseAmount": 646.55,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1417,
+    "PurchaseAmount": 727.37,
+    "PurchaseFrequency": 13
+  },
+  {
+    "CustomerID": 1418,
+    "PurchaseAmount": 988.05,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1419,
+    "PurchaseAmount": 194.92,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1420,
+    "PurchaseAmount": 420.32,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1421,
+    "PurchaseAmount": 240.28,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1422,
+    "PurchaseAmount": 447.3,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1423,
+    "PurchaseAmount": 445.04,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1424,
+    "PurchaseAmount": 152.99,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1425,
+    "PurchaseAmount": 467.3,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1426,
+    "PurchaseAmount": 1595.22,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1427,
+    "PurchaseAmount": 593.65,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1428,
+    "PurchaseAmount": 124.04,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1429,
+    "PurchaseAmount": 184.03,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1430,
+    "PurchaseAmount": 404.17,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1431,
+    "PurchaseAmount": 187.99,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1432,
+    "PurchaseAmount": 952.72,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1433,
+    "PurchaseAmount": 109.31,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1434,
+    "PurchaseAmount": 596.61,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1435,
+    "PurchaseAmount": 86.22,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1436,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1437,
+    "PurchaseAmount": 163.66,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1438,
+    "PurchaseAmount": 674.76,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1439,
+    "PurchaseAmount": 847.3,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1440,
+    "PurchaseAmount": 533.27,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1441,
+    "PurchaseAmount": 873.89,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1442,
+    "PurchaseAmount": 24.0,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1443,
+    "PurchaseAmount": 462.88,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1444,
+    "PurchaseAmount": 590.61,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1445,
+    "PurchaseAmount": 645.51,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1446,
+    "PurchaseAmount": 566.01,
+    "PurchaseFrequency": 0
+  },
+  {
+    "CustomerID": 1447,
+    "PurchaseAmount": 655.42,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1448,
+    "PurchaseAmount": 458.97,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1449,
+    "PurchaseAmount": 125.32,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1450,
+    "PurchaseAmount": 263.99,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1451,
+    "PurchaseAmount": 956.01,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1452,
+    "PurchaseAmount": 884.7,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1453,
+    "PurchaseAmount": 582.88,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1454,
+    "PurchaseAmount": 684.75,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1455,
+    "PurchaseAmount": 815.19,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1456,
+    "PurchaseAmount": 578.09,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1457,
+    "PurchaseAmount": 937.85,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1458,
+    "PurchaseAmount": 917.08,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1459,
+    "PurchaseAmount": 1920.53,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1460,
+    "PurchaseAmount": 273.42,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1461,
+    "PurchaseAmount": 277.63,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1462,
+    "PurchaseAmount": 547.61,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1463,
+    "PurchaseAmount": 1405.44,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1464,
+    "PurchaseAmount": 987.67,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1465,
+    "PurchaseAmount": 744.35,
+    "PurchaseFrequency": 8
+  },
+  {
+    "CustomerID": 1466,
+    "PurchaseAmount": 1032.96,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1467,
+    "PurchaseAmount": 598.18,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1468,
+    "PurchaseAmount": 330.38,
+    "PurchaseFrequency": 3
+  },
+  {
+    "CustomerID": 1469,
+    "PurchaseAmount": 1633.86,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1470,
+    "PurchaseAmount": 567.24,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1471,
+    "PurchaseAmount": 903.66,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1472,
+    "PurchaseAmount": 23.71,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1473,
+    "PurchaseAmount": 32.42,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1474,
+    "PurchaseAmount": 473.79,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1475,
+    "PurchaseAmount": 188.06,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1476,
+    "PurchaseAmount": 506.62,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1477,
+    "PurchaseAmount": 277.31,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1478,
+    "PurchaseAmount": 2100.09,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1479,
+    "PurchaseAmount": 855.47,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1480,
+    "PurchaseAmount": 1099.79,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1481,
+    "PurchaseAmount": 43.11,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1482,
+    "PurchaseAmount": 737.4,
+    "PurchaseFrequency": 9
+  },
+  {
+    "CustomerID": 1483,
+    "PurchaseAmount": 362.3,
+    "PurchaseFrequency": 10
+  },
+  {
+    "CustomerID": 1484,
+    "PurchaseAmount": 1113.76,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1485,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1486,
+    "PurchaseAmount": 404.76,
+    "PurchaseFrequency": 2
+  },
+  {
+    "CustomerID": 1487,
+    "PurchaseAmount": 139.27,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1488,
+    "PurchaseAmount": 467.01,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1489,
+    "PurchaseAmount": 941.5,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1490,
+    "PurchaseAmount": 1156.54,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1491,
+    "PurchaseAmount": 313.0,
+    "PurchaseFrequency": 11
+  },
+  {
+    "CustomerID": 1492,
+    "PurchaseAmount": 1884.46,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1493,
+    "PurchaseAmount": 892.43,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1494,
+    "PurchaseAmount": null,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1495,
+    "PurchaseAmount": 152.82,
+    "PurchaseFrequency": 6
+  },
+  {
+    "CustomerID": 1496,
+    "PurchaseAmount": 380.71,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1497,
+    "PurchaseAmount": 312.35,
+    "PurchaseFrequency": 7
+  },
+  {
+    "CustomerID": 1498,
+    "PurchaseAmount": 601.6,
+    "PurchaseFrequency": 5
+  },
+  {
+    "CustomerID": 1499,
+    "PurchaseAmount": 430.58,
+    "PurchaseFrequency": 4
+  },
+  {
+    "CustomerID": 1500,
+    "PurchaseAmount": 334.42,
+    "PurchaseFrequency": 6
+  }
+]

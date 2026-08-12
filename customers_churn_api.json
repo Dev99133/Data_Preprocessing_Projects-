@@ -1,0 +1,2507 @@
+{
+  "status": "success",
+  "source": "mock://churn-labelling-service/v1/customers",
+  "count": 500,
+  "results": [
+    {
+      "CustomerID": 1001,
+      "LastPurchaseDaysAgo": 84,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1002,
+      "LastPurchaseDaysAgo": 269,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1003,
+      "LastPurchaseDaysAgo": 324,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1004,
+      "LastPurchaseDaysAgo": 312,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1005,
+      "LastPurchaseDaysAgo": 349,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1006,
+      "LastPurchaseDaysAgo": 327,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1007,
+      "LastPurchaseDaysAgo": 166,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1008,
+      "LastPurchaseDaysAgo": 142,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1009,
+      "LastPurchaseDaysAgo": 237,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1010,
+      "LastPurchaseDaysAgo": 117,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1011,
+      "LastPurchaseDaysAgo": 220,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1012,
+      "LastPurchaseDaysAgo": 364,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1013,
+      "LastPurchaseDaysAgo": 73,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1014,
+      "LastPurchaseDaysAgo": 281,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1015,
+      "LastPurchaseDaysAgo": 341,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1016,
+      "LastPurchaseDaysAgo": 196,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1017,
+      "LastPurchaseDaysAgo": 130,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1018,
+      "LastPurchaseDaysAgo": 93,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1019,
+      "LastPurchaseDaysAgo": 62,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1020,
+      "LastPurchaseDaysAgo": 117,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1021,
+      "LastPurchaseDaysAgo": 272,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1022,
+      "LastPurchaseDaysAgo": 188,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1023,
+      "LastPurchaseDaysAgo": 81,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1024,
+      "LastPurchaseDaysAgo": 198,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1025,
+      "LastPurchaseDaysAgo": 295,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1026,
+      "LastPurchaseDaysAgo": 5,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1027,
+      "LastPurchaseDaysAgo": 8,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1028,
+      "LastPurchaseDaysAgo": 350,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1029,
+      "LastPurchaseDaysAgo": 273,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1030,
+      "LastPurchaseDaysAgo": 210,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1031,
+      "LastPurchaseDaysAgo": 330,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1032,
+      "LastPurchaseDaysAgo": 215,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1033,
+      "LastPurchaseDaysAgo": 190,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1034,
+      "LastPurchaseDaysAgo": 77,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1035,
+      "LastPurchaseDaysAgo": 296,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1036,
+      "LastPurchaseDaysAgo": 279,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1037,
+      "LastPurchaseDaysAgo": 108,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1038,
+      "LastPurchaseDaysAgo": 269,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1039,
+      "LastPurchaseDaysAgo": 265,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1040,
+      "LastPurchaseDaysAgo": 35,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1041,
+      "LastPurchaseDaysAgo": 59,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1042,
+      "LastPurchaseDaysAgo": 217,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1043,
+      "LastPurchaseDaysAgo": 227,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1044,
+      "LastPurchaseDaysAgo": 240,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1045,
+      "LastPurchaseDaysAgo": 136,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1046,
+      "LastPurchaseDaysAgo": 305,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1047,
+      "LastPurchaseDaysAgo": 163,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1048,
+      "LastPurchaseDaysAgo": 76,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1049,
+      "LastPurchaseDaysAgo": 42,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1050,
+      "LastPurchaseDaysAgo": 320,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1051,
+      "LastPurchaseDaysAgo": 258,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1052,
+      "LastPurchaseDaysAgo": 168,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1053,
+      "LastPurchaseDaysAgo": 77,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1054,
+      "LastPurchaseDaysAgo": 36,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1055,
+      "LastPurchaseDaysAgo": 56,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1056,
+      "LastPurchaseDaysAgo": 39,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1057,
+      "LastPurchaseDaysAgo": 193,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1058,
+      "LastPurchaseDaysAgo": 73,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1059,
+      "LastPurchaseDaysAgo": 47,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1060,
+      "LastPurchaseDaysAgo": 103,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1061,
+      "LastPurchaseDaysAgo": 255,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1062,
+      "LastPurchaseDaysAgo": 181,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1063,
+      "LastPurchaseDaysAgo": 56,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1064,
+      "LastPurchaseDaysAgo": 273,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1065,
+      "LastPurchaseDaysAgo": 179,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1066,
+      "LastPurchaseDaysAgo": 68,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1067,
+      "LastPurchaseDaysAgo": 252,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1068,
+      "LastPurchaseDaysAgo": 362,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1069,
+      "LastPurchaseDaysAgo": 197,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1070,
+      "LastPurchaseDaysAgo": 59,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1071,
+      "LastPurchaseDaysAgo": 113,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1072,
+      "LastPurchaseDaysAgo": 219,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1073,
+      "LastPurchaseDaysAgo": 364,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1074,
+      "LastPurchaseDaysAgo": 339,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1075,
+      "LastPurchaseDaysAgo": 340,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1076,
+      "LastPurchaseDaysAgo": 304,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1077,
+      "LastPurchaseDaysAgo": 210,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1078,
+      "LastPurchaseDaysAgo": 236,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1079,
+      "LastPurchaseDaysAgo": 268,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1080,
+      "LastPurchaseDaysAgo": 261,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1081,
+      "LastPurchaseDaysAgo": 233,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1082,
+      "LastPurchaseDaysAgo": 49,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1083,
+      "LastPurchaseDaysAgo": 321,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1084,
+      "LastPurchaseDaysAgo": 4,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1085,
+      "LastPurchaseDaysAgo": 156,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1086,
+      "LastPurchaseDaysAgo": 159,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1087,
+      "LastPurchaseDaysAgo": 363,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1088,
+      "LastPurchaseDaysAgo": 33,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1089,
+      "LastPurchaseDaysAgo": 174,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1090,
+      "LastPurchaseDaysAgo": 131,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1091,
+      "LastPurchaseDaysAgo": 36,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1092,
+      "LastPurchaseDaysAgo": 82,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1093,
+      "LastPurchaseDaysAgo": 154,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1094,
+      "LastPurchaseDaysAgo": 334,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1095,
+      "LastPurchaseDaysAgo": 142,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1096,
+      "LastPurchaseDaysAgo": 321,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1097,
+      "LastPurchaseDaysAgo": 268,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1098,
+      "LastPurchaseDaysAgo": 299,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1099,
+      "LastPurchaseDaysAgo": 311,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1100,
+      "LastPurchaseDaysAgo": 260,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1101,
+      "LastPurchaseDaysAgo": 267,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1102,
+      "LastPurchaseDaysAgo": 57,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1103,
+      "LastPurchaseDaysAgo": 262,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1104,
+      "LastPurchaseDaysAgo": 18,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1105,
+      "LastPurchaseDaysAgo": 269,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1106,
+      "LastPurchaseDaysAgo": 239,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1107,
+      "LastPurchaseDaysAgo": 276,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1108,
+      "LastPurchaseDaysAgo": 234,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1109,
+      "LastPurchaseDaysAgo": 135,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1110,
+      "LastPurchaseDaysAgo": 135,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1111,
+      "LastPurchaseDaysAgo": 217,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1112,
+      "LastPurchaseDaysAgo": 173,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1113,
+      "LastPurchaseDaysAgo": 124,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1114,
+      "LastPurchaseDaysAgo": 179,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1115,
+      "LastPurchaseDaysAgo": 196,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1116,
+      "LastPurchaseDaysAgo": 88,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1117,
+      "LastPurchaseDaysAgo": 233,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1118,
+      "LastPurchaseDaysAgo": 115,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1119,
+      "LastPurchaseDaysAgo": 98,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1120,
+      "LastPurchaseDaysAgo": 153,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1121,
+      "LastPurchaseDaysAgo": 38,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1122,
+      "LastPurchaseDaysAgo": 220,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1123,
+      "LastPurchaseDaysAgo": 267,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1124,
+      "LastPurchaseDaysAgo": 348,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1125,
+      "LastPurchaseDaysAgo": 104,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1126,
+      "LastPurchaseDaysAgo": 197,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1127,
+      "LastPurchaseDaysAgo": 184,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1128,
+      "LastPurchaseDaysAgo": 267,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1129,
+      "LastPurchaseDaysAgo": 228,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1130,
+      "LastPurchaseDaysAgo": 294,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1131,
+      "LastPurchaseDaysAgo": 310,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1132,
+      "LastPurchaseDaysAgo": 42,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1133,
+      "LastPurchaseDaysAgo": 130,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1134,
+      "LastPurchaseDaysAgo": 238,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1135,
+      "LastPurchaseDaysAgo": 198,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1136,
+      "LastPurchaseDaysAgo": 176,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1137,
+      "LastPurchaseDaysAgo": 64,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1138,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1139,
+      "LastPurchaseDaysAgo": 270,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1140,
+      "LastPurchaseDaysAgo": 14,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1141,
+      "LastPurchaseDaysAgo": 216,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1142,
+      "LastPurchaseDaysAgo": 330,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1143,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1144,
+      "LastPurchaseDaysAgo": 347,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1145,
+      "LastPurchaseDaysAgo": 129,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1146,
+      "LastPurchaseDaysAgo": 2,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1147,
+      "LastPurchaseDaysAgo": 249,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1148,
+      "LastPurchaseDaysAgo": 78,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1149,
+      "LastPurchaseDaysAgo": 4,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1150,
+      "LastPurchaseDaysAgo": 66,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1151,
+      "LastPurchaseDaysAgo": 340,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1152,
+      "LastPurchaseDaysAgo": 285,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1153,
+      "LastPurchaseDaysAgo": 101,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1154,
+      "LastPurchaseDaysAgo": 218,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1155,
+      "LastPurchaseDaysAgo": 124,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1156,
+      "LastPurchaseDaysAgo": 65,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1157,
+      "LastPurchaseDaysAgo": 360,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1158,
+      "LastPurchaseDaysAgo": 297,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1159,
+      "LastPurchaseDaysAgo": 133,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1160,
+      "LastPurchaseDaysAgo": 129,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1161,
+      "LastPurchaseDaysAgo": 297,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1162,
+      "LastPurchaseDaysAgo": 168,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1163,
+      "LastPurchaseDaysAgo": 138,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1164,
+      "LastPurchaseDaysAgo": 141,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1165,
+      "LastPurchaseDaysAgo": 163,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1166,
+      "LastPurchaseDaysAgo": 190,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1167,
+      "LastPurchaseDaysAgo": 15,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1168,
+      "LastPurchaseDaysAgo": 175,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1169,
+      "LastPurchaseDaysAgo": 161,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1170,
+      "LastPurchaseDaysAgo": 100,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1171,
+      "LastPurchaseDaysAgo": 130,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1172,
+      "LastPurchaseDaysAgo": 155,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1173,
+      "LastPurchaseDaysAgo": 134,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1174,
+      "LastPurchaseDaysAgo": 331,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1175,
+      "LastPurchaseDaysAgo": 193,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1176,
+      "LastPurchaseDaysAgo": 184,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1177,
+      "LastPurchaseDaysAgo": 96,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1178,
+      "LastPurchaseDaysAgo": 334,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1179,
+      "LastPurchaseDaysAgo": 9,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1180,
+      "LastPurchaseDaysAgo": 201,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1181,
+      "LastPurchaseDaysAgo": 62,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1182,
+      "LastPurchaseDaysAgo": 280,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1183,
+      "LastPurchaseDaysAgo": 138,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1184,
+      "LastPurchaseDaysAgo": 107,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1185,
+      "LastPurchaseDaysAgo": 22,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1186,
+      "LastPurchaseDaysAgo": 288,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1187,
+      "LastPurchaseDaysAgo": 145,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1188,
+      "LastPurchaseDaysAgo": 97,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1189,
+      "LastPurchaseDaysAgo": 308,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1190,
+      "LastPurchaseDaysAgo": 8,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1191,
+      "LastPurchaseDaysAgo": 171,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1192,
+      "LastPurchaseDaysAgo": 59,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1193,
+      "LastPurchaseDaysAgo": 47,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1194,
+      "LastPurchaseDaysAgo": 8,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1195,
+      "LastPurchaseDaysAgo": 69,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1196,
+      "LastPurchaseDaysAgo": 345,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1197,
+      "LastPurchaseDaysAgo": 163,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1198,
+      "LastPurchaseDaysAgo": 364,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1199,
+      "LastPurchaseDaysAgo": 98,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1200,
+      "LastPurchaseDaysAgo": 278,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1201,
+      "LastPurchaseDaysAgo": 33,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1202,
+      "LastPurchaseDaysAgo": 40,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1203,
+      "LastPurchaseDaysAgo": 6,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1204,
+      "LastPurchaseDaysAgo": 328,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1205,
+      "LastPurchaseDaysAgo": 245,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1206,
+      "LastPurchaseDaysAgo": 271,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1207,
+      "LastPurchaseDaysAgo": 338,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1208,
+      "LastPurchaseDaysAgo": 121,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1209,
+      "LastPurchaseDaysAgo": 264,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1210,
+      "LastPurchaseDaysAgo": 183,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1211,
+      "LastPurchaseDaysAgo": 198,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1212,
+      "LastPurchaseDaysAgo": 241,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1213,
+      "LastPurchaseDaysAgo": 172,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1214,
+      "LastPurchaseDaysAgo": 9,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1215,
+      "LastPurchaseDaysAgo": 28,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1216,
+      "LastPurchaseDaysAgo": 183,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1217,
+      "LastPurchaseDaysAgo": 208,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1218,
+      "LastPurchaseDaysAgo": 267,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1219,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1220,
+      "LastPurchaseDaysAgo": 69,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1221,
+      "LastPurchaseDaysAgo": 134,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1222,
+      "LastPurchaseDaysAgo": 162,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1223,
+      "LastPurchaseDaysAgo": 359,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1224,
+      "LastPurchaseDaysAgo": 194,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1225,
+      "LastPurchaseDaysAgo": 232,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1226,
+      "LastPurchaseDaysAgo": 268,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1227,
+      "LastPurchaseDaysAgo": 132,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1228,
+      "LastPurchaseDaysAgo": 352,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1229,
+      "LastPurchaseDaysAgo": 246,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1230,
+      "LastPurchaseDaysAgo": 309,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1231,
+      "LastPurchaseDaysAgo": 273,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1232,
+      "LastPurchaseDaysAgo": 227,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1233,
+      "LastPurchaseDaysAgo": 12,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1234,
+      "LastPurchaseDaysAgo": 213,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1235,
+      "LastPurchaseDaysAgo": 48,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1236,
+      "LastPurchaseDaysAgo": 220,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1237,
+      "LastPurchaseDaysAgo": 256,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1238,
+      "LastPurchaseDaysAgo": 199,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1239,
+      "LastPurchaseDaysAgo": 113,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1240,
+      "LastPurchaseDaysAgo": 22,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1241,
+      "LastPurchaseDaysAgo": 245,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1242,
+      "LastPurchaseDaysAgo": 255,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1243,
+      "LastPurchaseDaysAgo": 174,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1244,
+      "LastPurchaseDaysAgo": 261,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1245,
+      "LastPurchaseDaysAgo": 284,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1246,
+      "LastPurchaseDaysAgo": 187,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1247,
+      "LastPurchaseDaysAgo": 18,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1248,
+      "LastPurchaseDaysAgo": 317,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1249,
+      "LastPurchaseDaysAgo": 170,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1250,
+      "LastPurchaseDaysAgo": 245,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1251,
+      "LastPurchaseDaysAgo": 332,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1252,
+      "LastPurchaseDaysAgo": 133,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1253,
+      "LastPurchaseDaysAgo": 227,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1254,
+      "LastPurchaseDaysAgo": 8,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1255,
+      "LastPurchaseDaysAgo": 323,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1256,
+      "LastPurchaseDaysAgo": 22,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1257,
+      "LastPurchaseDaysAgo": 197,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1258,
+      "LastPurchaseDaysAgo": 129,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1259,
+      "LastPurchaseDaysAgo": 14,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1260,
+      "LastPurchaseDaysAgo": 169,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1261,
+      "LastPurchaseDaysAgo": 341,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1262,
+      "LastPurchaseDaysAgo": 61,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1263,
+      "LastPurchaseDaysAgo": 107,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1264,
+      "LastPurchaseDaysAgo": 69,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1265,
+      "LastPurchaseDaysAgo": 46,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1266,
+      "LastPurchaseDaysAgo": 84,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1267,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1268,
+      "LastPurchaseDaysAgo": 285,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1269,
+      "LastPurchaseDaysAgo": 252,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1270,
+      "LastPurchaseDaysAgo": 281,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1271,
+      "LastPurchaseDaysAgo": 261,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1272,
+      "LastPurchaseDaysAgo": 140,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1273,
+      "LastPurchaseDaysAgo": 328,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1274,
+      "LastPurchaseDaysAgo": 63,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1275,
+      "LastPurchaseDaysAgo": 255,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1276,
+      "LastPurchaseDaysAgo": 41,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1277,
+      "LastPurchaseDaysAgo": 279,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1278,
+      "LastPurchaseDaysAgo": 32,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1279,
+      "LastPurchaseDaysAgo": 79,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1280,
+      "LastPurchaseDaysAgo": 143,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1281,
+      "LastPurchaseDaysAgo": 253,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1282,
+      "LastPurchaseDaysAgo": 17,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1283,
+      "LastPurchaseDaysAgo": 94,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1284,
+      "LastPurchaseDaysAgo": 122,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1285,
+      "LastPurchaseDaysAgo": 267,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1286,
+      "LastPurchaseDaysAgo": 350,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1287,
+      "LastPurchaseDaysAgo": 224,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1288,
+      "LastPurchaseDaysAgo": 185,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1289,
+      "LastPurchaseDaysAgo": 123,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1290,
+      "LastPurchaseDaysAgo": 300,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1291,
+      "LastPurchaseDaysAgo": 40,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1292,
+      "LastPurchaseDaysAgo": 48,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1293,
+      "LastPurchaseDaysAgo": 74,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1294,
+      "LastPurchaseDaysAgo": 98,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1295,
+      "LastPurchaseDaysAgo": 169,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1296,
+      "LastPurchaseDaysAgo": 345,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1297,
+      "LastPurchaseDaysAgo": 237,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1298,
+      "LastPurchaseDaysAgo": 140,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1299,
+      "LastPurchaseDaysAgo": 77,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1300,
+      "LastPurchaseDaysAgo": 237,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1301,
+      "LastPurchaseDaysAgo": 93,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1302,
+      "LastPurchaseDaysAgo": 356,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1303,
+      "LastPurchaseDaysAgo": 174,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1304,
+      "LastPurchaseDaysAgo": 201,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1305,
+      "LastPurchaseDaysAgo": 329,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1306,
+      "LastPurchaseDaysAgo": 112,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1307,
+      "LastPurchaseDaysAgo": 172,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1308,
+      "LastPurchaseDaysAgo": 194,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1309,
+      "LastPurchaseDaysAgo": 99,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1310,
+      "LastPurchaseDaysAgo": 20,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1311,
+      "LastPurchaseDaysAgo": 104,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1312,
+      "LastPurchaseDaysAgo": 41,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1313,
+      "LastPurchaseDaysAgo": 246,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1314,
+      "LastPurchaseDaysAgo": 3,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1315,
+      "LastPurchaseDaysAgo": 116,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1316,
+      "LastPurchaseDaysAgo": 322,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1317,
+      "LastPurchaseDaysAgo": 207,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1318,
+      "LastPurchaseDaysAgo": 245,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1319,
+      "LastPurchaseDaysAgo": 244,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1320,
+      "LastPurchaseDaysAgo": 109,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1321,
+      "LastPurchaseDaysAgo": 231,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1322,
+      "LastPurchaseDaysAgo": 81,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1323,
+      "LastPurchaseDaysAgo": 232,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1324,
+      "LastPurchaseDaysAgo": 249,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1325,
+      "LastPurchaseDaysAgo": 319,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1326,
+      "LastPurchaseDaysAgo": 335,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1327,
+      "LastPurchaseDaysAgo": 9,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1328,
+      "LastPurchaseDaysAgo": 109,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1329,
+      "LastPurchaseDaysAgo": 200,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1330,
+      "LastPurchaseDaysAgo": 118,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1331,
+      "LastPurchaseDaysAgo": 226,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1332,
+      "LastPurchaseDaysAgo": 311,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1333,
+      "LastPurchaseDaysAgo": 94,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1334,
+      "LastPurchaseDaysAgo": 326,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1335,
+      "LastPurchaseDaysAgo": 322,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1336,
+      "LastPurchaseDaysAgo": 333,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1337,
+      "LastPurchaseDaysAgo": 27,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1338,
+      "LastPurchaseDaysAgo": 107,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1339,
+      "LastPurchaseDaysAgo": 46,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1340,
+      "LastPurchaseDaysAgo": 44,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1341,
+      "LastPurchaseDaysAgo": 20,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1342,
+      "LastPurchaseDaysAgo": 161,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1343,
+      "LastPurchaseDaysAgo": 32,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1344,
+      "LastPurchaseDaysAgo": 108,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1345,
+      "LastPurchaseDaysAgo": 358,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1346,
+      "LastPurchaseDaysAgo": 322,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1347,
+      "LastPurchaseDaysAgo": 342,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1348,
+      "LastPurchaseDaysAgo": 14,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1349,
+      "LastPurchaseDaysAgo": 241,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1350,
+      "LastPurchaseDaysAgo": 231,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1351,
+      "LastPurchaseDaysAgo": 49,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1352,
+      "LastPurchaseDaysAgo": 330,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1353,
+      "LastPurchaseDaysAgo": 148,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1354,
+      "LastPurchaseDaysAgo": 356,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1355,
+      "LastPurchaseDaysAgo": 42,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1356,
+      "LastPurchaseDaysAgo": 237,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1357,
+      "LastPurchaseDaysAgo": 48,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1358,
+      "LastPurchaseDaysAgo": 346,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1359,
+      "LastPurchaseDaysAgo": 222,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1360,
+      "LastPurchaseDaysAgo": 28,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1361,
+      "LastPurchaseDaysAgo": 79,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1362,
+      "LastPurchaseDaysAgo": 131,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1363,
+      "LastPurchaseDaysAgo": 5,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1364,
+      "LastPurchaseDaysAgo": 4,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1365,
+      "LastPurchaseDaysAgo": 337,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1366,
+      "LastPurchaseDaysAgo": 358,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1367,
+      "LastPurchaseDaysAgo": 196,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1368,
+      "LastPurchaseDaysAgo": 329,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1369,
+      "LastPurchaseDaysAgo": 239,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1370,
+      "LastPurchaseDaysAgo": 11,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1371,
+      "LastPurchaseDaysAgo": 261,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1372,
+      "LastPurchaseDaysAgo": 7,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1373,
+      "LastPurchaseDaysAgo": 298,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1374,
+      "LastPurchaseDaysAgo": 134,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1375,
+      "LastPurchaseDaysAgo": 52,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1376,
+      "LastPurchaseDaysAgo": 95,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1377,
+      "LastPurchaseDaysAgo": 249,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1378,
+      "LastPurchaseDaysAgo": 309,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1379,
+      "LastPurchaseDaysAgo": 208,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1380,
+      "LastPurchaseDaysAgo": 59,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1381,
+      "LastPurchaseDaysAgo": 328,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1382,
+      "LastPurchaseDaysAgo": 288,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1383,
+      "LastPurchaseDaysAgo": 150,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1384,
+      "LastPurchaseDaysAgo": 202,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1385,
+      "LastPurchaseDaysAgo": 351,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1386,
+      "LastPurchaseDaysAgo": 138,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1387,
+      "LastPurchaseDaysAgo": 10,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1388,
+      "LastPurchaseDaysAgo": 54,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1389,
+      "LastPurchaseDaysAgo": 219,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1390,
+      "LastPurchaseDaysAgo": 364,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1391,
+      "LastPurchaseDaysAgo": 270,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1392,
+      "LastPurchaseDaysAgo": 225,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1393,
+      "LastPurchaseDaysAgo": 118,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1394,
+      "LastPurchaseDaysAgo": 160,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1395,
+      "LastPurchaseDaysAgo": 14,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1396,
+      "LastPurchaseDaysAgo": 136,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1397,
+      "LastPurchaseDaysAgo": 227,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1398,
+      "LastPurchaseDaysAgo": 330,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1399,
+      "LastPurchaseDaysAgo": 336,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1400,
+      "LastPurchaseDaysAgo": 299,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1401,
+      "LastPurchaseDaysAgo": 8,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1402,
+      "LastPurchaseDaysAgo": 296,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1403,
+      "LastPurchaseDaysAgo": 80,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1404,
+      "LastPurchaseDaysAgo": 225,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1405,
+      "LastPurchaseDaysAgo": 345,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1406,
+      "LastPurchaseDaysAgo": 324,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1407,
+      "LastPurchaseDaysAgo": 242,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1408,
+      "LastPurchaseDaysAgo": 109,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1409,
+      "LastPurchaseDaysAgo": 190,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1410,
+      "LastPurchaseDaysAgo": 257,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1411,
+      "LastPurchaseDaysAgo": 188,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1412,
+      "LastPurchaseDaysAgo": 148,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1413,
+      "LastPurchaseDaysAgo": 147,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1414,
+      "LastPurchaseDaysAgo": 219,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1415,
+      "LastPurchaseDaysAgo": 14,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1416,
+      "LastPurchaseDaysAgo": 364,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1417,
+      "LastPurchaseDaysAgo": 38,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1418,
+      "LastPurchaseDaysAgo": 359,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1419,
+      "LastPurchaseDaysAgo": 13,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1420,
+      "LastPurchaseDaysAgo": 187,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1421,
+      "LastPurchaseDaysAgo": 152,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1422,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1423,
+      "LastPurchaseDaysAgo": 158,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1424,
+      "LastPurchaseDaysAgo": 327,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1425,
+      "LastPurchaseDaysAgo": 7,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1426,
+      "LastPurchaseDaysAgo": 359,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1427,
+      "LastPurchaseDaysAgo": 251,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1428,
+      "LastPurchaseDaysAgo": 284,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1429,
+      "LastPurchaseDaysAgo": 51,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1430,
+      "LastPurchaseDaysAgo": 24,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1431,
+      "LastPurchaseDaysAgo": 145,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1432,
+      "LastPurchaseDaysAgo": 118,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1433,
+      "LastPurchaseDaysAgo": 285,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1434,
+      "LastPurchaseDaysAgo": 327,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1435,
+      "LastPurchaseDaysAgo": 156,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1436,
+      "LastPurchaseDaysAgo": 280,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1437,
+      "LastPurchaseDaysAgo": 22,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1438,
+      "LastPurchaseDaysAgo": 271,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1439,
+      "LastPurchaseDaysAgo": 37,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1440,
+      "LastPurchaseDaysAgo": 244,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1441,
+      "LastPurchaseDaysAgo": 140,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1442,
+      "LastPurchaseDaysAgo": 152,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1443,
+      "LastPurchaseDaysAgo": 101,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1444,
+      "LastPurchaseDaysAgo": 147,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1445,
+      "LastPurchaseDaysAgo": 319,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1446,
+      "LastPurchaseDaysAgo": 295,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1447,
+      "LastPurchaseDaysAgo": 124,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1448,
+      "LastPurchaseDaysAgo": 107,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1449,
+      "LastPurchaseDaysAgo": 186,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1450,
+      "LastPurchaseDaysAgo": 250,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1451,
+      "LastPurchaseDaysAgo": 67,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1452,
+      "LastPurchaseDaysAgo": 265,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1453,
+      "LastPurchaseDaysAgo": 346,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1454,
+      "LastPurchaseDaysAgo": 308,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1455,
+      "LastPurchaseDaysAgo": 200,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1456,
+      "LastPurchaseDaysAgo": 117,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1457,
+      "LastPurchaseDaysAgo": 118,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1458,
+      "LastPurchaseDaysAgo": 271,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1459,
+      "LastPurchaseDaysAgo": 166,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1460,
+      "LastPurchaseDaysAgo": 39,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1461,
+      "LastPurchaseDaysAgo": 247,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1462,
+      "LastPurchaseDaysAgo": 51,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1463,
+      "LastPurchaseDaysAgo": 360,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1464,
+      "LastPurchaseDaysAgo": 152,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1465,
+      "LastPurchaseDaysAgo": 125,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1466,
+      "LastPurchaseDaysAgo": 21,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1467,
+      "LastPurchaseDaysAgo": 62,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1468,
+      "LastPurchaseDaysAgo": 345,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1469,
+      "LastPurchaseDaysAgo": 196,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1470,
+      "LastPurchaseDaysAgo": 329,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1471,
+      "LastPurchaseDaysAgo": 348,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1472,
+      "LastPurchaseDaysAgo": 18,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1473,
+      "LastPurchaseDaysAgo": 139,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1474,
+      "LastPurchaseDaysAgo": 306,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1475,
+      "LastPurchaseDaysAgo": 181,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1476,
+      "LastPurchaseDaysAgo": 186,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1477,
+      "LastPurchaseDaysAgo": 208,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1478,
+      "LastPurchaseDaysAgo": 256,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1479,
+      "LastPurchaseDaysAgo": 342,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1480,
+      "LastPurchaseDaysAgo": 323,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1481,
+      "LastPurchaseDaysAgo": 228,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1482,
+      "LastPurchaseDaysAgo": 211,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1483,
+      "LastPurchaseDaysAgo": 132,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1484,
+      "LastPurchaseDaysAgo": 43,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1485,
+      "LastPurchaseDaysAgo": 259,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1486,
+      "LastPurchaseDaysAgo": 1,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1487,
+      "LastPurchaseDaysAgo": 255,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1488,
+      "LastPurchaseDaysAgo": 181,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1489,
+      "LastPurchaseDaysAgo": 287,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1490,
+      "LastPurchaseDaysAgo": 346,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1491,
+      "LastPurchaseDaysAgo": 202,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1492,
+      "LastPurchaseDaysAgo": 209,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1493,
+      "LastPurchaseDaysAgo": 178,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1494,
+      "LastPurchaseDaysAgo": 136,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1495,
+      "LastPurchaseDaysAgo": 33,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1496,
+      "LastPurchaseDaysAgo": 12,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1497,
+      "LastPurchaseDaysAgo": 264,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1498,
+      "LastPurchaseDaysAgo": 334,
+      "Churn": 1
+    },
+    {
+      "CustomerID": 1499,
+      "LastPurchaseDaysAgo": 20,
+      "Churn": 0
+    },
+    {
+      "CustomerID": 1500,
+      "LastPurchaseDaysAgo": 120,
+      "Churn": 0
+    }
+  ]
+}

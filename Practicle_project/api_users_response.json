@@ -1,0 +1,3502 @@
+[
+  {
+    "customer_id": "CUST0001",
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0002",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0003",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0004",
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0005",
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0006",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0007",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0008",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0009",
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0010",
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0011",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0012",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0013",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0014",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0015A",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0016",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0017",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0018",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0019",
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0020",
+    "first_name": "Taylor",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0021",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0022",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C0023X",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0024",
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0025",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0026",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0027",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0028",
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0029",
+    "first_name": "Drew",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0030A",
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0031",
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0032",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0033",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0034",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0035",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0036",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0037",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0038",
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0039",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0040",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0041",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0042",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0043",
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0044",
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0045A",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0046X",
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0047",
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0048",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0049",
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0050",
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0051",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0052",
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0053",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0054",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0055",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0056",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0057",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0058",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0059",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0060A",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0061",
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0062",
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0063",
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0064",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0065",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0066",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0067",
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0068",
+    "first_name": "Sam",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0069X",
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0070",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0071",
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0072",
+    "first_name": "Jamie",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0073",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0074",
+    "first_name": "Jordan",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0075A",
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0076",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0077",
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0078",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0079",
+    "first_name": "Drew",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0080",
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0081",
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0082",
+    "first_name": "Drew",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0083",
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0084",
+    "first_name": "Casey",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0085",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0086",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0087",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0088",
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0089",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0090A",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0091",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C0092X",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0093",
+    "first_name": "Avery",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0094",
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0095",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0096",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0097",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0098",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0099",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0100",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0101",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0102",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0103",
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0104",
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0105A",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0106",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0107",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0108",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0109",
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0110",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0111",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0112",
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0113",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0114",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0115X",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0116",
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0117",
+    "first_name": "Casey",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0118",
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0119",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0120A",
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0121",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0122",
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0123",
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0124",
+    "first_name": "Casey",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0125",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0126",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0127",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0128",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0129",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0130",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0131",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0132",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0133",
+    "first_name": "Sam",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0134",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0135A",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0136",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0137",
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "C0138X",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0139",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0140",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0141",
+    "first_name": "Sam",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0142",
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0143",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0144",
+    "first_name": "Riley",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0145",
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0146",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0147",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0148",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0149",
+    "first_name": "Casey",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0150A",
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0151",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0152",
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0153",
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0154",
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0155",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0156",
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0157",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0158",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0159",
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0160",
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0161X",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0162",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0163",
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0164",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0165A",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0166",
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0167",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0168",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0169",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0170",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0171",
+    "first_name": "Casey",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0172",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0173",
+    "first_name": "Sam",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0174",
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0175",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0176",
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0177",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0178",
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0179",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-0180A",
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0181",
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0182",
+    "first_name": "Drew",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0183",
+    "first_name": "Jordan",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0184X",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0185",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0186",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0187",
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0188",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0189",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0190",
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0191",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0192",
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0193",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0194",
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0195A",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0196",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0197",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0198",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0199",
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0200",
+    "first_name": "Taylor",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0201",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0202",
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0203",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0204",
+    "first_name": "Alex",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0205",
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0206",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C0207X",
+    "first_name": "Casey",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0208",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0209",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0210A",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0211",
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0212",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0213",
+    "first_name": "Sam",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0214",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0215",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0216",
+    "first_name": "Taylor",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0217",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0218",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0219",
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0220",
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0221",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0222",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0223",
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0224",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0225A",
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0226",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0227",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0228",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0229",
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0230X",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0231",
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0232",
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0233",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0234",
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0235",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0236",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0237",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0238",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0239",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0240A",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0241",
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0242",
+    "first_name": "Drew",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0243",
+    "first_name": "Sam",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0244",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0245",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0246",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0247",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0248",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0249",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0250",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0251",
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0252",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C0253X",
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0254",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0255A",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0256",
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0257",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0258",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0259",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0260",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0261",
+    "first_name": "Alex",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0262",
+    "first_name": "Jamie",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0263",
+    "first_name": "Drew",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0264",
+    "first_name": "Jordan",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0265",
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0266",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0267",
+    "first_name": "Taylor",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0268",
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0269",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0270A",
+    "first_name": "Drew",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0271",
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0272",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0273",
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0274",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0275",
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0276X",
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0277",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0278",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0279",
+    "first_name": "Alex",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0280",
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0281",
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0282",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0283",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0284",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0285A",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0286",
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0287",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0288",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0289",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0290",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0291",
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0292",
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0293",
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0294",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0295",
+    "first_name": "Avery",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0296",
+    "first_name": "Riley",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0297",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0298",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "C0299X",
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0300A",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0301",
+    "first_name": "Sam",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0302",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0303",
+    "first_name": "Morgan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0304",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0305",
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0306",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0307",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0308",
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0309",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0310",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0311",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0312",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0313",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0314",
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-0315A",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0316",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0317",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0318",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0319",
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0320",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0321",
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0322X",
+    "first_name": "Riley",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0323",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0324",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0325",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0326",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0327",
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0328",
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0329",
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0330A",
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0331",
+    "first_name": "Riley",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0332",
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0333",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0334",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0335",
+    "first_name": "Sam",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0336",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0337",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0338",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0339",
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0340",
+    "first_name": "Sam",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0341",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0342",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0343",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0344",
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0345A",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0346",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0347",
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0348",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0349",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0350",
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0351",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0352",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0353",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0354",
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0355",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0356",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0357",
+    "first_name": "Drew",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0358",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0359",
+    "first_name": "Jordan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0360A",
+    "first_name": "Casey",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0361",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0362",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0363",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0364",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0365",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0366",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0367",
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0368X",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0369",
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0370",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0371",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0372",
+    "first_name": "Jamie",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0373",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0374",
+    "first_name": "Drew",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-0375A",
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0376",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0377",
+    "first_name": "Alex",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0378",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0379",
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0380",
+    "first_name": "Avery",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0381",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0382",
+    "first_name": "Drew",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0383",
+    "first_name": "Jamie",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0384",
+    "first_name": "Avery",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0385",
+    "first_name": "Casey",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0386",
+    "first_name": "Jordan",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0387",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0388",
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0389",
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0390A",
+    "first_name": "Morgan",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0391X",
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0392",
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0393",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0394",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0395",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0396",
+    "first_name": "Riley",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0397",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0398",
+    "first_name": "Sam",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0399",
+    "first_name": "Drew",
+    "last_name": "Davis",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0400",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0401",
+    "first_name": "Sam",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0402",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0403",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0404",
+    "first_name": "Avery",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-0405A",
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0406",
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0407",
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0408",
+    "first_name": "Riley",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0409",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0410",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0411",
+    "first_name": "Drew",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0412",
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0413",
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C0414X",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0415",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0416",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0417",
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0418",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0419",
+    "first_name": "Riley",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0420A",
+    "first_name": "Taylor",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0421",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0422",
+    "first_name": "Riley",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0423",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0424",
+    "first_name": "Morgan",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0425",
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0426",
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0427",
+    "first_name": "Riley",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0428",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0429",
+    "first_name": "Avery",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0430",
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0431",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0432",
+    "first_name": "Casey",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0433",
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0434",
+    "first_name": "Sam",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-0435A",
+    "first_name": "Jamie",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0436",
+    "first_name": "Jamie",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C0437X",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0438",
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0439",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0440",
+    "first_name": "Morgan",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0441",
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0442",
+    "first_name": "Morgan",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0443",
+    "first_name": "Drew",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0444",
+    "first_name": "Riley",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0445",
+    "first_name": "Morgan",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0446",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0447",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0448",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0449",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0450A",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0451",
+    "first_name": "Jordan",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0452",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0453",
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0454",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0455",
+    "first_name": "Alex",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0456",
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0457",
+    "first_name": "Jordan",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0458",
+    "first_name": "Avery",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0459",
+    "first_name": "Jamie",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C0460X",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0461",
+    "first_name": "Morgan",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0462",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0463",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0464",
+    "first_name": "Drew",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0465A",
+    "first_name": "Sam",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0466",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0467",
+    "first_name": "Avery",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0468",
+    "first_name": "Casey",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0469",
+    "first_name": "Alex",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0470",
+    "first_name": "Jamie",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0471",
+    "first_name": "Taylor",
+    "last_name": "Garcia",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0472",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0473",
+    "first_name": "Avery",
+    "last_name": "Brown",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0474",
+    "first_name": "Taylor",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0475",
+    "first_name": "Jordan",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0476",
+    "first_name": "Taylor",
+    "last_name": "Clark",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0477",
+    "first_name": "Casey",
+    "last_name": "Clark",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0478",
+    "first_name": "Sam",
+    "last_name": "Smith",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0479",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-0480A",
+    "first_name": "Riley",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0481",
+    "first_name": "Sam",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0482",
+    "first_name": "Alex",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C0483X",
+    "first_name": "Jamie",
+    "last_name": "Davis",
+    "phone_verified": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0484",
+    "first_name": "Alex",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0485",
+    "first_name": "Morgan",
+    "last_name": "Miller",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0486",
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0487",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0488",
+    "first_name": "Casey",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0489",
+    "first_name": "Casey",
+    "last_name": "Moore",
+    "phone_verified": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST0490",
+    "first_name": "Morgan",
+    "last_name": "Johnson",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0491",
+    "first_name": "Jordan",
+    "last_name": "Wilson",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0492",
+    "first_name": "Casey",
+    "last_name": "Miller",
+    "phone_verified": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0493",
+    "first_name": "Avery",
+    "last_name": "Garcia",
+    "phone_verified": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST0494",
+    "first_name": "Riley",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-0495A",
+    "first_name": "Jordan",
+    "last_name": "Moore",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0496",
+    "first_name": "Alex",
+    "last_name": "Brown",
+    "phone_verified": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST0497",
+    "first_name": "Taylor",
+    "last_name": "Lee",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0498",
+    "first_name": "Morgan",
+    "last_name": "Lee",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0499",
+    "first_name": "Riley",
+    "last_name": "Johnson",
+    "phone_verified": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST0500",
+    "first_name": "Alex",
+    "last_name": "Wilson",
+    "phone_verified": false,
+    "loyalty_tier": "Platinum"
+  }
+]
